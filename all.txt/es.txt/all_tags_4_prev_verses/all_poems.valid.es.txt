@@ -1,452 +1,728 @@
-<bov>Quizá las cuerdas. \n
-cuerdas<bov>Sigo pensando, \n
-cuerdas pensando<bov>sigo pensando lo mismo, \n
-cuerdas pensando mismo<bov>la voz me persigue y sigue insistiendo, \n
-cuerdas pensando mismo insistiendo<bov>me convierte y me convierto, \n
-pensando mismo insistiendo convierto<bov>se repite y me repito, \n
-mismo insistiendo convierto repito<bov>quizá ese sonido \n
-insistiendo convierto repito sonido<bov>sea un lamento, \n
-convierto repito sonido lamento<bov>quizá las cuerdas \n
-repito sonido lamento cuerdas<bov>son demasiado finas para verlas, \n
-sonido lamento cuerdas verlas<bov>quizá las cuerdas. \n
-lamento cuerdas verlas cuerdas<bov>Y quizá mi movimiento \n
-cuerdas verlas cuerdas movimiento<bov>no se parece en nada a como lo habías imaginado, \n
-verlas cuerdas movimiento imaginado<bov>y las cosas que funcionan funcionan porque funcionan \n
-cuerdas movimiento imaginado funcionan<bov>y no hay nada que explicar, \n
-movimiento imaginado funcionan explicar<bov>nada que explicar, \n
-imaginado funcionan explicar explicar<bov>solo sentir \n
-funcionan explicar explicar sentir<bov>y contemplar como pasa. \n
-explicar explicar sentir pasa<bov>El veneno no descubre verdades, \n
-explicar sentir pasa verdades<bov>pero crea perspectiva \n
-sentir pasa verdades perspectiva<bov>y enloquece al mas cuerdo, \n
-pasa verdades perspectiva cuerdo<bov>y quizá, \n
-verdades perspectiva cuerdo quizá<bov>quizá las cuerdas sean demasiado finas, \n
-perspectiva cuerdo quizá finas<bov>quizá las cuerdas. \n
-cuerdo quizá finas cuerdas<bov>Quizá la mirada se quedo olvidada \n
-quizá finas cuerdas olvidada<bov>cuando llamaste a la puerta, \n
-finas cuerdas olvidada puerta<bov>quizá la mirada se llevo mis ojos, \n
-cuerdas olvidada puerta ojos<bov>y ahora, \n
-olvidada puerta ojos ahora<bov>ahora son cuatro los que eran cinco, \n
-puerta ojos ahora cinco<bov>y ahora \n
-ojos ahora cinco ahora<bov>me pregunto \n
-ahora cinco ahora pregunto<bov>que pasaría si, \n
-cinco ahora pregunto si<bov>rodando cuesta abajo, \n
-ahora pregunto si abajo<bov>decidiese \n
-pregunto si abajo decidiese<bov>que no quería tirarme. \n
-si abajo decidiese tirarme<bov>La gravedad de las cosas \n
-abajo decidiese tirarme cosas<bov>es siempre la misma, \n
-decidiese tirarme cosas misma<bov>casi diez si mal no recuerdo, \n
-tirarme cosas misma recuerdo<bov>y recuerdo que las cuerdas, \n
-cosas misma recuerdo cuerdas<bov>quizá, \n
-misma recuerdo cuerdas quizá<bov>son demasiado finas para verlas, \n
-recuerdo cuerdas quizá verlas<bov>quizá las cuerdas. \n
-cuerdas quizá verlas cuerdas<bov>Quizá la mano que te empuja, \n
-quizá verlas cuerdas empuja<bov>quizá el aliento en rojo pasión \n
-verlas cuerdas empuja pasión<bov>y las horas compartidas, \n
-cuerdas empuja pasión compartidas<bov>son demasiado finas para verlas. \n
-empuja pasión compartidas verlas<bov>Espero que no. \n
-pasión compartidas verlas no<bov>Espero que el color… \n
-compartidas verlas no color…<bov>espero, \n
-verlas no color… espero<bov>sinceramente espero, \n
-no color… espero espero<bov>no el alimento, \n
-color… espero espero alimento<bov>no el concierto, \n
-espero espero alimento concierto<bov>no el dibujo guardado en la libreta del colegio. \n
-espero alimento concierto colegio<bov>Espero, \n
-alimento concierto colegio Espero<bov>sinceramente, \n
-concierto colegio Espero sinceramente<bov>la mano, \n
-colegio Espero sinceramente mano<bov>el aliento, \n
-Espero sinceramente mano aliento<bov>la pasión, \n
-sinceramente mano aliento pasión<bov>las horas compartidas, \n
-mano aliento pasión compartidas<bov>la explosión y el aprender, \n
-aliento pasión compartidas aprender<bov>la herida que fortalece mis rodillas, \n
-pasión compartidas aprender rodillas<bov>y quizá, \n
-compartidas aprender rodillas quizá<bov>quizá las cuerdas. \n<|endoftext|>
-<bov>Ahora \n
-Ahora<bov>Es el momento de la EMPATIA \n
-Ahora EMPATIA<bov>De la comunicación por deseo y pensamiento \n
-Ahora EMPATIA pensamiento<bov>De ponerse en el lugar del otro \n
-Ahora EMPATIA pensamiento otro<bov>Es el momento del OTRO \n
-EMPATIA pensamiento otro OTRO<bov>Ayudar a los demás será \n
-pensamiento otro OTRO será<bov>La mejor forma de ayudarse a uno mismo \n
-otro OTRO será mismo<bov>Es el momento de TENDER LA MANO \n
-OTRO será mismo MANO<bov>De invitar \n
-será mismo MANO invitar<bov>De apoyar \n
-mismo MANO invitar apoyar<bov>De colaborar \n
-MANO invitar apoyar colaborar<bov>De llamar a ver como estás, sin más \n
-invitar apoyar colaborar más<bov>Ahora \n
-apoyar colaborar más Ahora<bov>EL VERSO ES ACCION \n
-colaborar más Ahora ACCION<bov>Ya no puede ser otra cosa mas que MOVIMIENTO \n
-más Ahora ACCION MOVIMIENTO<bov>El baile de las consonantes \n
-Ahora ACCION MOVIMIENTO consonantes<bov>cuando todas las palabras son VERBOS \n
-ACCION MOVIMIENTO consonantes VERBOS<bov>Es el momento de que sea EL MOMENTO \n
-<bov>la suerte, \n
-suerte<bov>está por ahí, danzando \n
-suerte danzando<bov>y, de repente, viene a verte, \n
-suerte danzando verte<bov>y si está a gusto, se queda, \n
-suerte danzando verte queda<bov>la suerte \n
-danzando verte queda suerte<bov>es distinta del azar, \n
-verte queda suerte azar<bov>no aparece por casualidad, \n
-queda suerte azar casualidad<bov>acude porque alguien la llama \n
-suerte azar casualidad llama<bov>y la cuida, \n
-azar casualidad llama cuida<bov>porque la trabaja cada día, \n
-casualidad llama cuida día<bov>cultivando los buenos augurios \n
-llama cuida día augurios<bov>y la amabilidad \n
-cuida día augurios amabilidad<bov>del que grita \n
-día augurios amabilidad grita<bov>con cortesía y convicción, \n
-augurios amabilidad grita convicción<bov>la suerte \n
-amabilidad grita convicción suerte<bov>es del que llega primero \n
-grita convicción suerte primero<bov>o del que no quiso acostarse \n
-convicción suerte primero acostarse<bov>antes de que terminase la fiesta, \n
-suerte primero acostarse fiesta<bov>la suerte \n
-primero acostarse fiesta suerte<bov>es una serpiente que vive \n
-acostarse fiesta suerte vive<bov>en los ojos del que mira \n
-fiesta suerte vive mira<bov>y se desliza suavemente \n
-suerte vive mira suavemente<bov>en la frente del oponente \n
-vive mira suavemente oponente<bov>y lo convierte en amigo, \n
-mira suavemente oponente amigo<bov>la suerte \n
-suavemente oponente amigo suerte<bov>rescata a aquel \n
-oponente amigo suerte aquel<bov>que no necesitaba ser rescatado. \n<|endoftext|>
-<bov>el poeta estuvo en la cárcel (literal) \n
-(literal)<bov>el poeta (barras y estrellas) \n
-(literal) estrellas)<bov>confundió las palabras al confundir las creencias \n
-(literal) estrellas) creencias<bov>y las iguanas dormidas despertaron \n
-(literal) estrellas) creencias despertaron<bov>el poeta intenta adivinar (visualización previa del momento) \n
-estrellas) creencias despertaron momento)<bov>lo imagina \n
-creencias despertaron momento) imagina<bov>lo construye \n
-despertaron momento) imagina construye<bov>con la clarividencia del que ya estuvo allí y sabe lo que va a ocurrir \n
-momento) imagina construye ocurrir<bov>(el constructo ya formado) (la idea que permanece) \n
-imagina construye ocurrir permanece)<bov>la creacion (el misterio) \n
-construye ocurrir permanece) misterio)<bov>la fuente (nunca revelada) \n
-ocurrir permanece) misterio) revelada)<bov>inunda la consciencia de los cuerpos que le rodean \n
-permanece) misterio) revelada) rodean<bov>la brillante letania de un poeta \n
-misterio) revelada) rodean poeta<bov>contempla en lo escondido \n
-revelada) rodean poeta escondido<bov>no quiere tapices \n
-rodean poeta escondido tapices<bov>quiere la carne \n
-poeta escondido tapices carne<bov>quiere (no hay tiempo para el suspiro) \n
-escondido tapices carne suspiro)<bov>quiere (el verbo que es acción) (que detona) \n
-tapices carne suspiro) detona)<bov>El poeta no estará vivo hasta que alguien escuche su llanto \n
-carne suspiro) detona) llanto<bov>no crecerá si no le damos unas raices \n
-suspiro) detona) llanto raices<bov>Sí el tiempo invertido \n
-detona) llanto raices invertido<bov>Sí el tiempo inventado \n
-llanto raices invertido inventado<bov>sin miedos \n
-raices invertido inventado miedos<bov>sin cabos \n
-invertido inventado miedos cabos<bov>solo la valentía del que sigue la luz del faro \n
-inventado miedos cabos faro<bov>aún sin luz \n
-miedos cabos faro luz<bov>aún sin faro \n<|endoftext|>
-<bov>El fuego \n
-fuego<bov>Pregunto: \n
-fuego Pregunto<bov>¿Como transformar en palabras \n
-fuego Pregunto palabras<bov>lo que siente tu cuerpo? \n
-fuego Pregunto palabras cuerpo<bov>¿Como acercarse a la química \n
-Pregunto palabras cuerpo química<bov>del primero que contó el cuento, \n
-palabras cuerpo química cuento<bov>del primero \n
-cuerpo química cuento primero<bov>que trato de comunicar el sentimiento? \n
-química cuento primero sentimiento<bov>Pregunto: \n
-cuento primero sentimiento Pregunto<bov>¿Es el dolor lo que nos daña fieramente? \n
-primero sentimiento Pregunto fieramente<bov>El dolor, creo, \n
-sentimiento Pregunto fieramente creo<bov>son solamente sonidos pronunciados por mis cuerdas, \n
-Pregunto fieramente creo cuerdas<bov>solo unas cuantas letras \n
-fieramente creo cuerdas letras<bov>que a tus oídos llegan. \n
-creo cuerdas letras llegan<bov>Pregunto: \n
-cuerdas letras llegan Pregunto<bov>¿Quien te ha enseñado a pronunciarlas? \n
-letras llegan Pregunto pronunciarlas<bov>¿Quien te asoció la idea? \n
-llegan Pregunto pronunciarlas idea<bov>Quizá se equivocaba, \n
-Pregunto pronunciarlas idea equivocaba<bov>quizá no acertó en la respuesta. \n
-pronunciarlas idea equivocaba respuesta<bov>Al fin y al cabo, \n
-idea equivocaba respuesta cabo<bov>son solamente reacciones de tu cuerpo, \n
-equivocaba respuesta cabo cuerpo<bov>perros salvajes y hienas mordiendo, \n
-respuesta cabo cuerpo mordiendo<bov>avisando de lo aprendido. \n
-cabo cuerpo mordiendo aprendido<bov>El perfecto y engrasado mecanismo \n
-cuerpo mordiendo aprendido mecanismo<bov>del organismo vivo \n
-mordiendo aprendido mecanismo vivo<bov>en el apogeo de su evolución. \n
-aprendido mecanismo vivo evolución<bov>Vivir, existir, permanecer, \n
-mecanismo vivo evolución permanecer<bov>seguir sintiendo, \n
-vivo evolución permanecer sintiendo<bov>sintiendo dolor también. \n
-evolución permanecer sintiendo también<bov>Si duele, si duele es que estás vivo. \n
-permanecer sintiendo también vivo<bov>Si duele, que entre, \n
-sintiendo también vivo entre<bov>que entre y converse, \n
-también vivo entre converse<bov>que entre, \n
-vivo entre converse entre<bov>que entre pero que se vaya luego. \n
-entre converse entre luego<bov>Seguir sintiendo \n
-converse entre luego sintiendo<bov>el latido, \n
-entre luego sintiendo latido<bov>el golpe constante y fiel a su visita, \n
-luego sintiendo latido visita<bov>el verdadero reloj de los conscientes. \n
-sintiendo latido visita conscientes<bov>Seguir, continuar, permanecer, \n
-latido visita conscientes permanecer<bov>perpetuar, \n
-visita conscientes permanecer perpetuar<bov>la interminable batalla contra la oxidación, \n
-conscientes permanecer perpetuar oxidación<bov>la repulsa a ese regalo envenenado \n
-permanecer perpetuar oxidación envenenado<bov>que sin embargo agradecemos: \n
-perpetuar oxidación envenenado agradecemos<bov>formar parte de este cosmos \n
-oxidación envenenado agradecemos cosmos<bov>en forma de alimento para los vivos. \n
-envenenado agradecemos cosmos vivos<bov>Las cenizas del fuego, \n
-agradecemos cosmos vivos fuego<bov>eso seremos, \n
-cosmos vivos fuego seremos<bov>pero ahora \n
-vivos fuego seremos ahora<bov>somos el fuego, \n
-fuego seremos ahora fuego<bov>ahora \n
-seremos ahora fuego ahora<bov>somos el fuego, \n
-ahora fuego ahora fuego<bov>antes fuimos madera creciendo, \n
-fuego ahora fuego creciendo<bov>bebiendo de la luz y del viento, \n
-ahora fuego creciendo viento<bov>leyendo en las hojas \n
-fuego creciendo viento hojas<bov>que de nuestras manos brotaban, \n
-creciendo viento hojas brotaban<bov>y todo, \n
-viento hojas brotaban todo<bov>y todo eso, \n
-hojas brotaban todo eso<bov>será reducido a cenizas por el tiempo, \n
-brotaban todo eso tiempo<bov>pero ahora, \n
-todo eso tiempo ahora<bov>ahora somos el fuego, \n
-eso tiempo ahora fuego<bov>ahora somos el fuego, \n
-tiempo ahora fuego fuego<bov>ardamos, quememos, brillemos, \n
-ahora fuego fuego brillemos<bov>propaguémonos, \n
-fuego fuego brillemos propaguémonos<bov>venguémonos de ese oxigeno \n
-fuego brillemos propaguémonos oxigeno<bov>que en el mismo bocado nos alimenta y nos condena, \n
-brillemos propaguémonos oxigeno condena<bov>venguémonos \n
-propaguémonos oxigeno condena venguémonos<bov>de ese ser misterioso \n
-oxigeno condena venguémonos misterioso<bov>crucificado en x finalmente, \n
-condena venguémonos misterioso finalmente<bov>que invento todo, \n
-venguémonos misterioso finalmente todo<bov>que urdió en un día la existencia \n
-misterioso finalmente todo existencia<bov>y nos dio forma con sus cuentos y sus cuentas. \n
-finalmente todo existencia cuentas<bov>Y nos dice, si, \n
-todo existencia cuentas si<bov>que seremos cenizas, si, \n
-existencia cuentas si si<bov>tierra después, lluvia luego. \n
-cuentas si si luego<bov>Y yo os digo, \n
-si si luego digo<bov>os digo que ahora, \n
-si luego digo ahora<bov>ahora somos fuego, \n
-luego digo ahora fuego<bov>ahora somos fuego, \n
-digo ahora fuego fuego<bov>ardamos, iluminemos, \n
-ahora fuego fuego iluminemos<bov>demos conversación por las noches, \n
-fuego fuego iluminemos noches<bov>comuniquemos, \n
-fuego iluminemos noches comuniquemos<bov>quememos las banderas y soñemos \n
-iluminemos noches comuniquemos soñemos<bov>con un mundo nuevo. \n
-noches comuniquemos soñemos nuevo<bov>Y yo os digo \n
-comuniquemos soñemos nuevo digo<bov>que ese mundo empieza \n
-soñemos nuevo digo empieza<bov>en cada uno \n
-nuevo digo empieza uno<bov>de vosotros, \n
-digo empieza uno vosotros<bov>nosotros, \n
-empieza uno vosotros nosotros<bov>ellos \n
-uno vosotros nosotros ellos<bov>y todos los tiempos \n
-vosotros nosotros ellos tiempos<bov>del verbo hecho carne. \n
-<bov>Es el momentode brillar, \n
-brillar<bov>es el momentode que todo se vuelva blancoy escribir un cuento nuevo,o el dibujo de lo que viste en un sueño,e impregnarlo todocon las manos sucias por tanto esfuerzo. \n
-brillar esfuerzo<bov>Es el momento \n
-brillar esfuerzo momento<bov>de que salga fuera lo que está dentro, \n
-brillar esfuerzo momento dentro<bov>y quedarte vacío \n
-esfuerzo momento dentro vacío<bov>para poder llenarte de nuevo. \n
-momento dentro vacío nuevo<bov>Es el momentode extender los brazos y abrazar todo lo que te rodea,pues es bueno,y estás contento,y brillas. \n
-dentro vacío nuevo brillas<bov>Brillas porque sabes como hacerlo,recogiendo el peso y lanzándolo hacia arriba,pasos perfectos en un baile desconocido,pecho descubierto que se calienta,y la luz de un barrio que permanece en el aire. \n
-vacío nuevo brillas aire<bov>Es el momentode dar el paso, el salto, la mano, el beso, \n
-nuevo brillas aire beso<bov>el mordisco en la nuca o el azote tierno. \n
-brillas aire beso tierno<bov>Es el momento de soñar \n
-aire beso tierno soñar<bov>con una nueva revuelta, \n
-beso tierno soñar revuelta<bov>que destruya castillos e incendie conciencias, \n
-tierno soñar revuelta conciencias<bov>un movimiento que una las manos de los que crean, \n
-soñar revuelta conciencias crean<bov>un hola cada vez que abres los ojos, \n
-revuelta conciencias crean ojos<bov>una ola que nos arrastre y nos zarandee, \n
-conciencias crean ojos zarandee<bov>como cuando éramos niños, \n
-crean ojos zarandee niños<bov>que nos arranque el miedo y nos respire curiosidad. \n
-ojos zarandee niños curiosidad<bov>Es el momentode que no importen los númerosy si los sentimientos,las manos mojadas en los vientres rojos del cariñoy la infinita dulzura que abre las puertas del abismo. \n
-zarandee niños curiosidad abismo<bov>(del poemario Las Partículas Brillantes. 2015) \n<|endoftext|>
-<bov>Ágiles Desmemoriados \n
-Desmemoriados<bov>Los poetas \n
-Desmemoriados poetas<bov>Desde su cueva y desde los tejados \n
-Desmemoriados poetas tejados<bov>Juegan a enunciar el sentir de los que temen \n
-Desmemoriados poetas tejados temen<bov>La clarividencia de una sucesion de palabras que se construye desde el interior \n
-poetas tejados temen interior<bov>Y se verbaliza en un arranque vulnerable, en la detonación de las cuerdas \n
-tejados temen interior cuerdas<bov>Una cama de digestion lenta \n
-temen interior cuerdas lenta<bov>Que se va en la mañana y vuelve en la ausencia de luz \n
-interior cuerdas lenta luz<bov>Olvidadizos somos, ágiles desmemoriados \n
-cuerdas lenta luz desmemoriados<bov>Despues de la pesadilla viene la calma \n
-lenta luz desmemoriados calma<bov>La alerta como hoja que permanece \n
-luz desmemoriados calma permanece<bov>Y se refugia ante la gota minima y el abrazo largo \n
-desmemoriados calma permanece largo<bov>Los sentidos han cambiado \n
-calma permanece largo cambiado<bov>Se adaptan ahora en la superviviencia de una especie que se arroja por el acantilado para luego aferrarse con uñas y dientes al resquicio ardiente de una gravedad pesada \n
-permanece largo cambiado pesada<bov>Inusitada \n
-largo cambiado pesada Inusitada<bov>Demasiado elevada en la cuesta y demasiada oscura para ser el final del tunel \n
-cambiado pesada Inusitada tunel<bov>o demasiada pereza para encontrarla \n
-pesada Inusitada tunel encontrarla<bov>Para imaginar un mundo nuevo \n
-Inusitada tunel encontrarla nuevo<bov>No el que merecemos pero si el que merecen los que vienen \n
-tunel encontrarla nuevo vienen<bov>Estamos buscando la manera de conseguir un nuevo mundo \n
-encontrarla nuevo vienen mundo<bov>Are you ready? \n
-nuevo vienen mundo ready<bov>Waiting for you \n
-vienen mundo ready you<bov>El virus es el odio y el miedo que sale de nuestras fosas como un mal sueño \n
-mundo ready you sueño<bov>El racismo enquistado en la historia que solo curará si aceptamos y comprendemos \n
-ready you sueño comprendemos<bov>Una herida que no se cierra y que sangra cuando callamos, bajamos la cabeza y miramos al suelo \n
-you sueño comprendemos suelo<bov>No dejemos que unos pocos arruinen lo que tantos hemos construido \n
-sueño comprendemos suelo construido<bov>No escupamos la rabia antes de saber hacía donde sopla el viento \n
-comprendemos suelo construido viento<bov>No caigamos en el desánimo ni dejemos de ver todo lo bueno \n
-suelo construido viento bueno<bov>Mi esperanza es la diversidad, la tolerancia y la solidaridad \n
-construido viento bueno solidaridad<bov>Mi escudo es la educación y la cultura \n
-viento bueno solidaridad cultura<bov>Mi arma es la palabra y lucho con ella \n
-bueno solidaridad cultura ella<bov>Los momentos que nos robaron \n
-solidaridad cultura ella robaron<bov>No fueron aquellos que más nos gustan \n
-cultura ella robaron gustan<bov>Ni los que mejor recordamos \n
-ella robaron gustan recordamos<bov>Esos siguen pasando, solo cambian de escenario \n
-robaron gustan recordamos escenario<bov>Los momentos que nos robaron \n
-gustan recordamos escenario robaron<bov>Fueron los minutos de cada día \n
-recordamos escenario robaron día<bov>Los segundos en botes ya cerrados \n
-escenario robaron día cerrados<bov>Nadie pudo, hasta ahora, abrirlos \n
-<bov>Musa Muchacha \n
-Muchacha<bov>La máscara debe ser utilizada no como un escudo. \n
-Muchacha escudo<bov>La hoja sobre la que flota tu mirada, \n
-Muchacha escudo mirada<bov>se convierte en la hiedra de mi alma \n
-Muchacha escudo mirada alma<bov>y sorprende en el recorrido, \n
-escudo mirada alma recorrido<bov>pues pareciera que conoce \n
-mirada alma recorrido conoce<bov>los rincones más ocultos. \n
-alma recorrido conoce ocultos<bov>Musa de las estrellas \n
-recorrido conoce ocultos estrellas<bov>o de todas las cosas que me pasan, \n
-conoce ocultos estrellas pasan<bov>cuerpo humano inventado para ver pasar el tiempo, \n
-ocultos estrellas pasan tiempo<bov>enamórame con el perdón \n
-estrellas pasan tiempo perdón<bov>de las cosas que nunca se dijeron, \n
-pasan tiempo perdón dijeron<bov>destello suficiente para alumbrar un barrio entero, \n
-tiempo perdón dijeron entero<bov>el humo que sale de tu boca se coció a fuego lento. \n
-perdón dijeron entero lento<bov>Cortina constante que se enreda \n
-dijeron entero lento enreda<bov>en el aguijón del erizo \n
-entero lento enreda erizo<bov>que recorre de noche los tejados, \n
-lento enreda erizo tejados<bov>carisma que roza la confianza \n
-enreda erizo tejados confianza<bov>y vaga tranquila en los labios. \n
-erizo tejados confianza labios<bov>Sábana opaca que se cubre de luciérnagas, \n
-tejados confianza labios luciérnagas<bov>encadenadas al cielo que las mira \n
-confianza labios luciérnagas mira<bov>y se enrojece de orgullo con la visita. \n
-labios luciérnagas mira visita<bov>Musa Muchacha, \n
-luciérnagas mira visita Muchacha<bov>acaso no recuerdas \n
-mira visita Muchacha recuerdas<bov>que dejaste guardada la médula \n
-visita Muchacha recuerdas médula<bov>debajo de las raíces del árbol en el que, \n
-Muchacha recuerdas médula que<bov>encaramada, duermes cada noche. \n
-recuerdas médula que noche<bov>Musa Muchacha, \n
-médula que noche Muchacha<bov>creías escuchar una sirena mientras cantabas, \n
-que noche Muchacha cantabas<bov>y una sirena escuchaste. \n
-noche Muchacha cantabas escuchaste<bov>(del poemario Las Partículas Brillantes. 2015) \n<|endoftext|>
-<bov>Quien esté dentro de uno \n
-uno<bov>podrá estar dentro de todos, \n
-uno todos<bov>Quien descubra el camino \n
-uno todos camino<bov>será quien lo pise primero, \n
-uno todos camino primero<bov>Tendrá entonces la huida \n
-todos camino primero huida<bov>la forma de tu pisada, \n
-camino primero huida pisada<bov>la cara oculta de un extremo, \n
-primero huida pisada extremo<bov>el impulso necesario \n
-huida pisada extremo necesario<bov>para dejar atrás el suelo, \n
-pisada extremo necesario suelo<bov>¿Será la lengua de los abuelos \n
-extremo necesario suelo abuelos<bov>la misma que la de sus nietos? \n
-necesario suelo abuelos nietos<bov>En lo más profundo de mi inocencia \n
-suelo abuelos nietos inocencia<bov>es donde verdaderamente se guarda \n
-abuelos nietos inocencia guarda<bov>el misterio y la fuerza, \n
-nietos inocencia guarda fuerza<bov>Hubo algo bello en el movimiento cotidiano de los astros, \n
-inocencia guarda fuerza astros<bov>se acompasaron sin esfuerzo, \n
-guarda fuerza astros esfuerzo<bov>sin intención, sin premio, \n
-fuerza astros esfuerzo premio<bov>¿Será la lengua de los abuelos \n
-astros esfuerzo premio abuelos<bov>la misma que la de sus nietos? \n
-esfuerzo premio abuelos nietos<bov>¿Falarán os netos \n
-premio abuelos nietos netos<bov>A misma lingua que os seus avos? \n
-abuelos nietos netos avos<bov>Non cho dixera pero, \n
-nietos netos avos pero<bov>Prefiro \n
-netos avos pero Prefiro<bov>De verdade, prefiro, \n
-avos pero Prefiro prefiro<bov>Xa o dixera alguen, pero \n
-pero Prefiro prefiro pero<bov>dígocho de novo, \n
-Prefiro prefiro pero novo<bov>Prefiro \n
-prefiro pero novo Prefiro<bov>¿Pensas que non estou no certo? \n
-pero novo Prefiro certo<bov>Non men coñeces ben, \n
-novo Prefiro certo ben<bov>Prefiro \n
-Prefiro certo ben Prefiro<bov>Xa o fixeron moitos \n
-certo ben Prefiro moitos<bov>e agora son lenda, \n
-ben Prefiro moitos lenda<bov>Pois ergueron a cabeza \n
-Prefiro moitos lenda cabeza<bov>para mostrar o camino, \n
-moitos lenda cabeza camino<bov>Prefiro \n
-lenda cabeza camino Prefiro<bov>De verdade da boa cho digo,, \n
-cabeza camino Prefiro digo<bov>Prefiro \n
-camino Prefiro digo Prefiro<bov>Xa o dixera alguén, \n
-Prefiro digo Prefiro alguén<bov>pero digocho de novo, \n
-digo Prefiro alguén novo<bov>Prefiro \n
-Prefiro alguén novo Prefiro<bov>Morrer de pe \n
-alguén novo Prefiro pe<bov>que vivir coma vencido. \n
-novo Prefiro pe vencido<bov>¿Será la lengua de los abuelos \n
-Prefiro pe vencido abuelos<bov>la misma que la de sus nietos? \n
-pe vencido abuelos nietos<bov>Marcos de la Fuente \n
-vencido abuelos nietos Fuente<bov>Octubre 2019 \n
-<bov>Niña Esdrújula \n
-Esdrújula<bov>¿Crees que tienes que sufrir para tener algo que contar? \n
-Esdrújula contar<bov>Niña que contienes el lazo del mundo entre tus piernas, \n
-Esdrújula contar piernas<bov>que se mueven en una carrera cuya salida es la meta, \n
-Esdrújula contar piernas meta<bov>sin despegarse del suelo que te vio nacer. \n
-contar piernas meta nacer<bov>Te vestías de rojo en los cumpleaños de los muertos, \n
-piernas meta nacer muertos<bov>aprendiendo a nadar sin tocar el agua \n
-meta nacer muertos agua<bov>o una escalera sin peldaños \n
-nacer muertos agua peldaños<bov>que lleguen hasta el fondo de tu mirada. \n
-muertos agua peldaños mirada<bov>Desde el bosque de cristal mellado, \n
-agua peldaños mirada mellado<bov>contemple un lago en el valle que forman \n
-peldaños mirada mellado forman<bov>tu nariz y tus ojos. \n
-mirada mellado forman ojos<bov>¿Crees que miento cuando digo que te conozco? \n
-mellado forman ojos conozco<bov>niña que inventas lo que no entiendes, \n
-forman ojos conozco entiendes<bov>y vomitas estrellas que la gente contempla, \n
-ojos conozco entiendes contempla<bov>arañando en el interior de tu boca que… \n
-conozco entiendes contempla que…<bov>¡Miente! \n
-entiendes contempla que… ¡Miente<bov>Sigue mintiendo. \n
-contempla que… ¡Miente mintiendo<bov>Solo los mudos hablan con la certeza de no equivocarse. \n
-que… ¡Miente mintiendo equivocarse<bov>¡Miente! \n
-¡Miente mintiendo equivocarse ¡Miente<bov>¿Quien eres, niña? \n
-mintiendo equivocarse ¡Miente niña<bov>Solo su vientre lo sabe. \n
-equivocarse ¡Miente niña sabe<bov>¿Es una palabra o una imagen lo que quieres robarme? \n
-¡Miente niña sabe robarme<bov>Niña, me preguntas, como buena madre. \n
-niña sabe robarme madre<bov>Es el interrogante que invita al nuevo misterio \n
-sabe robarme madre misterio<bov>o la comunión de los que vuelan. \n
-robarme madre misterio vuelan<bov>Guarda el secreto en la frente, niña, \n
-madre misterio vuelan niña<bov>y nadie verá lo que haces. \n
-misterio vuelan niña haces<bov>Música: B. Bravo - “Midnite” \n
-<bov>¿Por qué no paré el coche \n
-coche<bov>cuando te vi haciendo autostop? \n
-coche autostop<bov>Habrías cambiado mi vida \n
-coche autostop vida<bov>¿Por qué no te estreché entre mis brazos \n
-coche autostop vida brazos<bov>cuando bailabas delante de mi? \n
-autostop vida brazos mi<bov>Querría hacerlo \n
-vida brazos mi hacerlo<bov>pero ya no puedo \n
-brazos mi hacerlo puedo<bov>Solo somos gases en busca de chispa \n
-mi hacerlo puedo chispa<bov>anhelando combustión abstracta y espontánea \n
-hacerlo puedo chispa espontánea<bov>cuerdas de guitarra esperando \n
-puedo chispa espontánea esperando<bov>la canción adecuada \n
-chispa espontánea esperando adecuada<bov>una canción de amor \n
-espontánea esperando adecuada amor<bov>como las de antes \n<|endoftext|>
-<bov>NUEVA YORK \n
-YORK<bov>Nueva York es el hijo que vomitara el futuro, \n
-YORK futuro<bov>es el hijo que morderá los pezones \n
-YORK futuro pezones<bov>y bramara como un gigante enjaulado en un cuerpo de mortal, \n
-YORK futuro pezones mortal<bov>y sonreirá a la luna en su mirada secreta y acordada. \n
-futuro pezones mortal acordada<bov>Nueva York es la ciudad de las ciudades \n
-pezones mortal acordada ciudades<bov>de este pequeño reino de simios, \n
-mortal acordada ciudades simios<bov>es el lugar elegido donde \n
-acordada ciudades simios donde<bov>el poder cambia de mano en cada estallido. \n
-ciudades simios donde estallido<bov>Una bañera tan grande como el mar, \n
-simios donde estallido mar<bov>Nueva York es un mar sucio y contaminado \n
-donde estallido mar contaminado<bov>lleno de maleficios y venenos, \n
-estallido mar contaminado venenos<bov>males de altura y peste de las alcantarillas de necios \n
-mar contaminado venenos necios<bov>intentando matarte. \n
-contaminado venenos necios matarte<bov>Me hará mas fuerte, \n
-venenos necios matarte fuerte<bov>Nueva York me hará mas fuerte \n
-necios matarte fuerte fuerte<bov>y es únicamente eso lo que le agradezco, \n
-matarte fuerte fuerte agradezco<bov>el resto lo cogeré con las cuatro manos \n
-fuerte fuerte agradezco manos<bov>y las cuatro piernas que llevo, \n
-fuerte agradezco manos llevo<bov>con cuatro brazos y dos cabezas, \n
-agradezco manos llevo cabezas<bov>como misiles que persiguen el sueño \n
-manos llevo cabezas sueño<bov>del loco enjaulado bramando. \n
-llevo cabezas sueño bramando<bov>Un animal acorralado \n
-cabezas sueño bramando acorralado<bov>que un día fue cosmos, agua y tierra, \n
-sueño bramando acorralado tierra<bov>lucha hecha carne por el capricho de la existencia. \n
-bramando acorralado tierra existencia<bov>Dentro de NY hay un oso blanco, \n
-acorralado tierra existencia blanco<bov>un oso blanco de metal oscilante, \n
-tierra existencia blanco oscilante<bov>un oso blanco bramando espuma blanca. \n
-existencia blanco oscilante blanca<bov>Manhattan es un oso que se lanza al vacío, \n
-blanco oscilante blanca vacío<bov>Manhattan es un hombre con forma de oso \n
-oscilante blanca vacío oso<bov>que se lanza hacia abajo con los sueños pegados al cuerpo \n
-blanca vacío oso cuerpo<bov>y la cabeza bien alta, \n
-vacío oso cuerpo alta<bov>y se lanza rodeado de agua \n
-oso cuerpo alta agua<bov>que es aire en su valentía, \n
-cuerpo alta agua valentía<bov>y es agua dulce, \n
-alta agua valentía dulce<bov>y es agua contaminada por los que ya estuvieron, \n
-agua valentía dulce estuvieron<bov>y no supieron ver, \n
-valentía dulce estuvieron ver<bov>o no quisieron. \n
-dulce estuvieron ver quisieron<bov>Y Nueva York contempla al hombre, \n
-estuvieron ver quisieron hombre<bov>y las riberas contrarias observan y se maravillan, \n
-ver quisieron hombre maravillan<bov>por aquellos que no pueden hacerlo, \n
-quisieron hombre maravillan hacerlo<bov>por aquellos y por estos, \n
-hombre maravillan hacerlo estos<bov>los que se fueron, \n
-maravillan hacerlo estos fueron<bov>y no supieron ver, \n
-hacerlo estos fueron ver<bov>o no quisieron. \n
+<bov>Ven conmigo, Pacífico \n
+Pacífico<bov>Al oeste del oeste en las raices del cometa \n
+Pacífico cometa<bov>Sierra Madre del Sur \n
+Pacífico cometa Sur<bov>Un santuario escondido en el tiempo \n
+Pacífico cometa Sur tiempo<bov>Triángulo de curación y sosiego \n
+cometa Sur tiempo sosiego<bov>Una onda expansiva de energía vital que llega desde el futuro \n
+Sur tiempo sosiego futuro<bov>Y emociona al primer intento \n
+tiempo sosiego futuro intento<bov>Una melodia primigenia como un tesoro enterrado que reverbera \n
+sosiego futuro intento reverbera<bov>Labios sellados, ojos abiertos \n
+futuro intento reverbera abiertos<bov>No se lo cuentes a nadie, nadie debe saberlo \n
+intento reverbera abiertos saberlo<bov>Estamos, protegidos del mundo, \n
+reverbera abiertos saberlo mundo<bov>Al oeste del oeste en las raices del cometa \n
+abiertos saberlo mundo cometa<bov>Sierra Madre del Sur \n
+saberlo mundo cometa Sur<bov>Morriñas \n
+mundo cometa Sur Morriñas<bov>Cae la luz de la tarde en el agua \n
+cometa Sur Morriñas agua<bov>Regresas a la playa que te vio nacer \n
+Sur Morriñas agua nacer<bov>Lagrimas de felicidad al encontrarte \n
+Morriñas agua nacer encontrarte<bov>sentir la arena en la misma piel \n
+agua nacer encontrarte piel<bov>Olor a hogar, serenidad \n
+nacer encontrarte piel serenidad<bov>Eres selva sol y sueños \n
+encontrarte piel serenidad sueños<bov>Tu brújula será el deseo \n
+piel serenidad sueños deseo<bov>Tu viaje la prueba de fuego \n
+serenidad sueños deseo fuego<bov>Nuevos caminos, amigos nuevos \n
+sueños deseo fuego nuevos<bov>Una llamada, un pensamiento que se repite \n
+deseo fuego nuevos repite<bov>Una conexión que resiste el tiempo y la distancia \n
+fuego nuevos repite distancia<bov>Saber que te estamos esperando \n
+nuevos repite distancia esperando<bov>Escondidos del mundo, creyendo y creando \n
+repite distancia esperando creando<bov>Al oeste del oeste en las raices del cometa \n
+distancia esperando creando cometa<bov>Sierra Madre del Surttrcdfxzqsa \n
+esperando creando cometa Surttrcdfxzqsa<bov>Si no encontramos la forma, \n
+creando cometa Surttrcdfxzqsa forma<bov>Si no hallamos la manera, \n
+cometa Surttrcdfxzqsa forma manera<bov>Inventaremos algo que nos permita \n
+Surttrcdfxzqsa forma manera permita<bov>llegar allí donde imaginamos, \n
+forma manera permita imaginamos<bov>alcanzar lo que veníamos a buscar, \n
+manera permita imaginamos buscar<bov>Un deseo loco que se materializa en cada paso, \n
+permita imaginamos buscar paso<bov>en cada peldaño ganado a la gravedad reinante \n
+imaginamos buscar paso reinante<bov>Nos nos iremos de aquí sin la gloria del intento \n
+buscar paso reinante intento<bov>Sin besar el suelo \n
+paso reinante intento suelo<bov>Sin hundir en la tierra las manos llenas de ceniza y deseo \n
+reinante intento suelo deseo<bov>Ahora \n
+intento suelo deseo Ahora<bov>Necesito que cierren los ojos \n
+suelo deseo Ahora ojos<bov>Ahora \n
+deseo Ahora ojos Ahora<bov>Necesito que nos elevemos por encima de los rascacielos \n
+Ahora ojos Ahora rascacielos<bov>Y vayamos \n
+ojos Ahora rascacielos vayamos<bov>A un mundo nuevo \n
+<bov>MARES MURIENDO \n
+MURIENDO<bov>El Báltico será el primero \n
+MURIENDO primero<bov>El Adriático vendrá después \n
+MURIENDO primero después<bov>El Mediterraneo morirá como mueren los emigrantes en él \n
+MURIENDO primero después él<bov>Sin islas \n
+primero después él islas<bov>Sin tierra \n
+después él islas tierra<bov>Sin almas llenando el líquido cementerio \n
+él islas tierra cementerio<bov>Mares marea mareandose y cayendo \n
+islas tierra cementerio cayendo<bov>Uno tras otro \n
+tierra cementerio cayendo otro<bov>Al oscuro cieno \n
+cementerio cayendo otro cieno<bov>Enfriandonos a nosotros se calientan ellos \n
+cayendo otro cieno ellos<bov>Pagan un alto precio \n
+otro cieno ellos precio<bov>Mantener la vida de los hijos de sus hijos que un dia fueron cielo \n
+cieno ellos precio cielo<bov>Fueron cielo ellos y mar nosotros \n
+ellos precio cielo nosotros<bov>Mar seguimos siendo \n
+precio cielo nosotros siendo<bov>Seguimos \n
+cielo nosotros siendo Seguimos<bov>Calentando el futuro, ardiendo \n
+nosotros siendo Seguimos ardiendo<bov>Echaremos de menos las branquias, echaremos \n
+siendo Seguimos ardiendo echaremos<bov>Esas que no quisimos, que rapidamente cayeron \n
+Seguimos ardiendo echaremos cayeron<bov>Los pulmones, limitados y secos, se ahogarán en el llanto \n
+ardiendo echaremos cayeron llanto<bov>En la codicia \n
+echaremos cayeron llanto codicia<bov>En el desprecio \n
+cayeron llanto codicia desprecio<bov>En la locura de quemar la casa en la que vives \n
+llanto codicia desprecio vives<bov>Sin herencia \n
+codicia desprecio vives herencia<bov>Sin legado \n
+desprecio vives herencia legado<bov>Sin tierra pues será desierto yermo \n
+vives herencia legado yermo<bov>Sin vida, pues a la casa volver no podremos \n
+herencia legado yermo podremos<bov>EL HOGAR ABANDONADO \n
+legado yermo podremos ABANDONADO<bov>La vida empezó en el mar \n
+yermo podremos ABANDONADO mar<bov>Terminará en el mar \n
+podremos ABANDONADO mar mar<bov>El mar es la casa que hemos abandonado \n
+ABANDONADO mar mar abandonado<bov>Ya no te acuerdas? \n
+mar mar abandonado acuerdas<bov>Éramos felices viviendo en el mar \n
+mar abandonado acuerdas mar<bov>Físicos en el líquido \n
+abandonado acuerdas mar líquido<bov>Flotando sin gravedad \n
+acuerdas mar líquido gravedad<bov>Sirenos corrientes de anchas branquias \n
+mar líquido gravedad branquias<bov>Desfilando en los arrecifes \n
+líquido gravedad branquias arrecifes<bov>Soñábamos con respirar fuera del agua \n
+gravedad branquias arrecifes agua<bov>Y ahora \n
+branquias arrecifes agua ahora<bov>El mar es la casa que hemos abandonado \n
+arrecifes agua ahora abandonado<bov>Ya no recuerdas? \n
+agua ahora abandonado recuerdas<bov>Cuando la marea nos traía el alimento \n
+ahora abandonado recuerdas alimento<bov>Más de lo que necesitábamos \n
+abandonado recuerdas alimento necesitábamos<bov>Como un regalo que destruimos en las manos de quien lo ofrece \n
+recuerdas alimento necesitábamos ofrece<bov>Hijos de Urano \n
+alimento necesitábamos ofrece Urano<bov>Desagradecidos somos \n
+necesitábamos ofrece Urano somos<bov>Seremos desterrados \n
+ofrece Urano somos desterrados<bov>ORIGEN \n
+Urano somos desterrados ORIGEN<bov>Planetas helados que migran hacia el interior en busca de calor \n
+somos desterrados ORIGEN calor<bov>Asteroides gigantes cubiertos de hielo chocando contra la Tierra \n
+desterrados ORIGEN calor Tierra<bov>CORAL \n
+ORIGEN calor Tierra CORAL<bov>Sensible esqueleto protector de las orillas \n
+calor Tierra CORAL orillas<bov>que inventaste los colores \n
+Tierra CORAL orillas colores<bov>MAREAS \n
+CORAL orillas colores MAREAS<bov>La luna respirando \n
+orillas colores MAREAS respirando<bov>profundo en las olas \n
+colores MAREAS respirando olas<bov>NUNCA MÁIS \n
+MAREAS respirando olas MÁIS<bov>Nunca Máis resulto ser \n
+respirando olas MÁIS ser<bov>el problema nuestro de cada día \n
+olas MÁIS ser día<bov>ISLA DE PLÁSTICO \n
+MÁIS ser día PLÁSTICO<bov>El plástico flota \n
+ser día PLÁSTICO flota<bov>No así la carne y los huesos \n
+<bov>Cuanta sangre derramó el miedo, \n
+miedo<bov>cuanta tristeza se tragó el océano, \n
+miedo océano<bov>años de distancia, tierra de por medio, \n
+miedo océano medio<bov>el recuerdo, enquistado, se quedó seco. \n
+miedo océano medio seco<bov>Vinieron las iguanas \n
+océano medio seco iguanas<bov>a llevarse a los enfermos \n
+medio seco iguanas enfermos<bov>que, despojados de aguijón y sin ceniza, \n
+seco iguanas enfermos ceniza<bov>doblegaron sus credos. \n
+iguanas enfermos ceniza credos<bov>Pudo más el hambre \n
+enfermos ceniza credos hambre<bov>que el mejor de los maestros, \n
+ceniza credos hambre maestros<bov>fantasmas comiendo en el bosque \n
+credos hambre maestros bosque<bov>para no tener la soga al cuello. \n
+hambre maestros bosque cuello<bov>Memoria sin carne ni huesos, \n
+maestros bosque cuello huesos<bov>ni caras ni nombres, todo un misterio, \n
+bosque cuello huesos misterio<bov>rebaños de hormigas con la espalda morada \n
+cuello huesos misterio morada<bov>cayendo, una tras otra, al oscuro hueco. \n
+huesos misterio morada hueco<bov>Injusticia … Inexplicable … Dolor. \n
+misterio morada hueco Dolor<bov>Malditos los que plantaron el fuego. \n
+morada hueco Dolor fuego<bov>Malditos los que dieron la orden. \n
+hueco Dolor fuego orden<bov>Malditos los que lo permitieron. \n
+<bov>Existe entre los pies un charco que no se pisa, \n
+pisa<bov>el amor a lo pequeño para volverse grande, \n
+pisa grande<bov>cuando todo lo negro que había dentro se transformó en música, \n
+pisa grande música<bov>la huida resultó ser una escalada hasta la cima. \n
+pisa grande música cima<bov>La isla se convirtió en pueblo, \n
+grande música cima pueblo<bov>y el largo viaje en un recuerdo \n
+música cima pueblo recuerdo<bov>o en una poesía, \n
+cima pueblo recuerdo poesía<bov>el ritmo dejó de ser lento \n
+pueblo recuerdo poesía lento<bov>y la vida comenzó tal y como él la había imaginado. \n
+recuerdo poesía lento imaginado<bov>Hay un incendio en el museo de cera \n
+poesía lento imaginado cera<bov>y solo Jack Kerouac los podrá salvar. \n
+lento imaginado cera salvar<bov>Hay un incendio en le museo de cera \n
+imaginado cera salvar cera<bov>y solo Jack Kerouac los podrá salvar. \n
+cera salvar cera salvar<bov>Apagó el fuego con sus deseos, \n
+salvar cera salvar deseos<bov>encendió la luz que estaba más lejos, \n
+cera salvar deseos lejos<bov>para que todos y todas viésemos. \n
+salvar deseos lejos viésemos<bov>El hombre que. \n
+deseos lejos viésemos que<bov>El niño. \n
+lejos viésemos que niño<bov>El duende. \n
+viésemos que niño duende<bov>El polizonte. \n
+que niño duende polizonte<bov>La sombra demasiado ágil. \n
+niño duende polizonte ágil<bov>El pasajero al que todos sonríen. \n
+duende polizonte ágil sonríen<bov>El Vigo está vivo en él. \n
+polizonte ágil sonríen él<bov>El vivo está Vigo en él. \n
+ágil sonríen él él<bov>El Kerouac está Vigo en él. \n
+sonríen él él él<bov>El Vigo está Kerouac en él. \n
+él él él él<bov>Hay una puerta abierta y la duda ofende, \n
+él él él ofende<bov>como ofenden los que permanecen quietos e inmóviles. \n
+él él ofende inmóviles<bov>¡Coge las herramientas! \n
+él ofende inmóviles herramientas<bov>¡Tus manos y tus piernas! \n
+ofende inmóviles herramientas piernas<bov>Tu mente enajenada que acierta a la primera, \n
+inmóviles herramientas piernas primera<bov>sin poner caras a los nombres, \n
+herramientas piernas primera nombres<bov>sin extender el abrazo escaso de curiosidad, \n
+piernas primera nombres curiosidad<bov>sin palabras que no construyan otras palabras \n
+primera nombres curiosidad palabras<bov>y jueguen a entenderse con la mirada. \n
+nombres curiosidad palabras mirada<bov>¡Mira! \n
+curiosidad palabras mirada ¡Mira<bov>Mira alrededor \n
+palabras mirada ¡Mira alrededor<bov>y verás que no hay excusas, \n
+mirada ¡Mira alrededor excusas<bov>solo una fuerza. \n
+¡Mira alrededor excusas fuerza<bov>Las raíces \n
+alrededor excusas fuerza raíces<bov>están creciendo, \n
+excusas fuerza raíces creciendo<bov>están creciendo, \n
+fuerza raíces creciendo creciendo<bov>in crustate, \n
+raíces creciendo creciendo crustate<bov>in amovible, \n
+creciendo creciendo crustate amovible<bov>in crustate en el suelo \n
+creciendo crustate amovible suelo<bov>para poder llegar al \n
+crustate amovible suelo al<bov>cielo. \n
+amovible suelo al cielo<bov>Porque solo me interesan… \n
+suelo al cielo interesan…<bov>Locura. \n
+al cielo interesan… Locura<bov>Solo me interesan… \n
+cielo interesan… Locura interesan…<bov>Lo cura, \n
+interesan… Locura interesan… cura<bov>lo cura, \n
+Locura interesan… cura cura<bov>más sano cuanto más loco, \n
+interesan… cura cura loco<bov>más cercano a la realidad \n
+cura cura loco realidad<bov>que construiste. \n
+cura loco realidad construiste<bov>¿Lo has soñado? \n
+loco realidad construiste soñado<bov>¿Lo has soñado? \n
+realidad construiste soñado soñado<bov>Entonces existe. \n
+construiste soñado soñado existe<bov>¿Conseguiste imaginarlo? \n
+soñado soñado existe imaginarlo<bov>¿Vino de repente o lo fuiste construyendo? \n
+soñado existe imaginarlo construyendo<bov>¿Conseguiste imaginarlo? \n
+existe imaginarlo construyendo imaginarlo<bov>Entonces… \n
+imaginarlo construyendo imaginarlo Entonces…<bov>Existe. \n
+construyendo imaginarlo Entonces… Existe<bov>Y esa razón me la dio \n
+imaginarlo Entonces… Existe dio<bov>un corazón hambriento, \n
+Entonces… Existe dio hambriento<bov>que explota en cada paso y mueve el mundo, \n
+Existe dio hambriento mundo<bov>mueve el mundo, \n
+dio hambriento mundo mundo<bov>mueve el mundo, \n
+hambriento mundo mundo mundo<bov>transforma el cuerpo con el aire que entra dentro, \n
+mundo mundo mundo dentro<bov>¿habéis llamado a los pulmones? \n
+mundo mundo dentro pulmones<bov>Quizá no vengan a la reunión de los órganos que el esqueleto protege. \n
+mundo dentro pulmones protege<bov>Llámalos si es que nadie \n
+dentro pulmones protege nadie<bov>te ha enseñado a respirar. \n
+pulmones protege nadie respirar<bov>Hay un incendio en le museo de cera \n
+protege nadie respirar cera<bov>y solo Jack Kerouac los podrá salvar. \n
+nadie respirar cera salvar<bov>Hay un incendio en le museo de cera \n
+respirar cera salvar cera<bov>y solo Jack Kerouac los podrá salvar. \n
+cera salvar cera salvar<bov>Apagó el fuego con sus deseos, \n
+salvar cera salvar deseos<bov>encendió la luz que estaba más lejos, \n
+cera salvar deseos lejos<bov>para que todos y todas viésemos. \n<|endoftext|>
+<bov>Larga, \n
+Larga<bov>oscura y de niebla, \n
+Larga niebla<bov>por el dolor y la tristeza. \n
+Larga niebla tristeza<bov>Ahora debemos estar todavía más cerca \n
+Larga niebla tristeza cerca<bov>los unos de los otros. \n
+niebla tristeza cerca otros<bov>Lo sentimos como algo nuestro, \n
+tristeza cerca otros nuestro<bov>percibimos el vacío en la distancia, \n
+cerca otros nuestro distancia<bov>es la larga noche de hierro, \n
+otros nuestro distancia hierro<bov>vías y muertos, \n
+nuestro distancia hierro muertos<bov>fotografías que nadie quiso mirar \n
+distancia hierro muertos mirar<bov>pero todos vieron. \n
+hierro muertos mirar vieron<bov>Es la larga noche de hierro, \n
+muertos mirar vieron hierro<bov>incertidumbre, desasosiego, \n
+mirar vieron hierro desasosiego<bov>un tren que no freno a tiempo \n
+vieron hierro desasosiego tiempo<bov>y cien vidas que se fueron, \n
+hierro desasosiego tiempo fueron<bov>como cien sueños, \n
+desasosiego tiempo fueron sueños<bov>como \n
+tiempo fueron sueños como<bov>un fallo de humanos, \n
+fueron sueños como humanos<bov>o la desconocida maldición \n
+sueños como humanos maldición<bov>de dónde se acaba el mundo. \n
+como humanos maldición mundo<bov>Ningún culpable, \n
+humanos maldición mundo culpable<bov>nadie ha pagado \n
+maldición mundo culpable pagado<bov>el billete hacia lo que da más miedo, \n
+mundo culpable pagado miedo<bov>un viaje en el espacio \n
+culpable pagado miedo espacio<bov>que se convirtió en un engaño. \n
+pagado miedo espacio engaño<bov>Ahora \n
+miedo espacio engaño Ahora<bov>solo queda, \n
+espacio engaño Ahora queda<bov>ahora, \n
+engaño Ahora queda ahora<bov>solos y solas, \n
+Ahora queda ahora solas<bov>ilógicos monólogos , \n
+queda ahora solas monólogos<bov>de un recuerdo que se enquista. \n
+<bov>M.U.S. \n
+M.U.S<bov>El mus es un beso sutil, \n
+M.U.S sutil<bov>Un fruncir los labios en busca de la victoria, \n
+M.U.S sutil victoria<bov>O un quedarse callado hasta en los gestos esperando a que alguien hable \n
+M.U.S sutil victoria hable<bov>Es una contienda que no ganaras solo \n
+sutil victoria hable solo<bov>Pues en la fuerza del otro reside tu fuerza, \n
+victoria hable solo fuerza<bov>Y es esa suma la que alzará las cabezas, \n
+hable solo fuerza cabezas<bov>Un equipo de dos, una pareja \n
+solo fuerza cabezas pareja<bov>El mus es un puente que nos une con los que están lejos, \n
+fuerza cabezas pareja lejos<bov>Construyendo la identidad que nos representa y que honramos ahora con este encuentro, \n
+cabezas pareja lejos encuentro<bov>Como la leña que echamos al fuego de nuestra herencia \n
+pareja lejos encuentro herencia<bov>Y nuestras costumbres, \n
+lejos encuentro herencia costumbres<bov>Venidas del norte para inundar las mesas de una patria \n
+encuentro herencia costumbres patria<bov>que es tan grande como queramos hacerla \n
+herencia costumbres patria hacerla<bov>Grande, chica, pares, juego \n
+costumbres patria hacerla juego<bov>Grande, chica, pares, juego \n
+patria hacerla juego juego<bov>Solo aquí la envidia es cosa buena, \n
+hacerla juego juego buena<bov>Desde 1800 \n
+juego juego buena 1800<bov>cuarenta naipes que se mueven ante los ojos atentos, \n
+juego buena 1800 atentos<bov>Frente a frente, queixo a queixo, \n
+buena 1800 atentos queixo<bov>Alrededor de una mesa \n
+1800 atentos queixo mesa<bov>que es el tablero de juego \n
+atentos queixo mesa juego<bov>Mano a mano, \n
+queixo mesa juego mano<bov>Ejercitando la comunicación por los sentidos, \n
+mesa juego mano sentidos<bov>En una química de aprendizaje instantáneo, \n
+juego mano sentidos instantáneo<bov>Palabras ocultas en el movimiento de las caras y los cuerpos \n
+mano sentidos instantáneo cuerpos<bov>Y un farol que ilumine el camino \n
+sentidos instantáneo cuerpos camino<bov>Morderse el labio inferior, \n
+instantáneo cuerpos camino inferior<bov>Sacar la punta de la lengua, \n
+cuerpos camino inferior lengua<bov>Apretar los labios, elevar las cejas \n
+camino inferior lengua cejas<bov>Lo mejor del mus: el órdago, \n
+inferior lengua cejas órdago<bov>Ya casi una forma de vida, \n
+lengua cejas órdago vida<bov>Un ganar a pesar de todo, \n
+cejas órdago vida todo<bov>El último cartucho, o el primero, \n
+órdago vida todo primero<bov>La elegancia del que sabe como se hacen las cosas, \n
+vida todo primero cosas<bov>El tirar esa carta ganadora, \n
+todo primero cosas ganadora<bov>La locura bien entendida como una muestra de lo que somos capaces \n
+primero cosas ganadora capaces<bov>Y amigos y amigas, \n
+cosas ganadora capaces amigas<bov>Esto no va de cartas y puntos, \n
+ganadora capaces amigas puntos<bov>No va de ganar o perder, \n
+capaces amigas puntos perder<bov>Va de estar juntos, \n
+amigas puntos perder juntos<bov>Cultivando lo que es nuestro, \n
+puntos perder juntos nuestro<bov>Una comunidad de brazos abiertos, compartir, \n
+perder juntos nuestro compartir<bov>Construyendo el hogar aquí \n
+juntos nuestro compartir aquí<bov>En lo que un día fue Little Spain, y sigue siendo \n
+nuestro compartir aquí siendo<bov>¡¡Así pues, juguemos!! \n
+compartir aquí siendo juguemos<bov>Como niños y niñas de nuevo, \n
+aquí siendo juguemos nuevo<bov>Como los abuelos que seremos, \n
+siendo juguemos nuevo seremos<bov>como nosotros mismos que, \n
+juguemos nuevo seremos que<bov>admitámoslo, estamos viviendo un sueño, \n
+nuevo seremos que sueño<bov>la vida que queremos y por la que tanto hemos luchado, \n
+seremos que sueño luchado<bov>aquí y ahora, \n
+que sueño luchado ahora<bov>en el Nueva York de nuestro tiempo, \n
+sueño luchado ahora tiempo<bov>que es el mejor de los nuevayores \n
+<bov>El grito \n
+grito<bov>¡Vamos! \n
+grito ¡Vamos<bov>Hay algo que puedes hacer, \n
+grito ¡Vamos hacer<bov>hay algo que tu puedes hacer. \n
+grito ¡Vamos hacer hacer<bov>¡Vamos! \n
+¡Vamos hacer hacer ¡Vamos<bov>¡Cambia! \n
+hacer hacer ¡Vamos ¡Cambia<bov>Cambia el mundo pero entonces \n
+hacer ¡Vamos ¡Cambia entonces<bov>tendrás que cambiar tu primero, \n
+¡Vamos ¡Cambia entonces primero<bov>y no será fácil. \n
+¡Cambia entonces primero fácil<bov>¡Vamos! \n
+entonces primero fácil ¡Vamos<bov>No desaparezcas. \n
+primero fácil ¡Vamos desaparezcas<bov>Transforma en algo denso el aire que te contamina \n
+fácil ¡Vamos desaparezcas contamina<bov>y rómpelo en pedazos con el grito. \n
+¡Vamos desaparezcas contamina grito<bov>La vibración del aplomo que duerme \n
+desaparezcas contamina grito duerme<bov>en cada uno de nosotros. \n
+contamina grito duerme nosotros<bov>Te quejabas porque nada pasaba, \n
+grito duerme nosotros pasaba<bov>y algo está pasando, \n
+duerme nosotros pasaba pasando<bov>y te necesita para ocurrir, \n
+nosotros pasaba pasando ocurrir<bov>te necesita. \n
+pasaba pasando ocurrir necesita<bov>No te escapes de esto pues \n
+pasando ocurrir necesita pues<bov>no puedes hacerlo, \n
+ocurrir necesita pues hacerlo<bov>estás dentro, \n
+necesita pues hacerlo dentro<bov>caminas en el paisaje dibujado por otros, \n
+pues hacerlo dentro otros<bov>sueñas con… \n
+hacerlo dentro otros con…<bov>Y esta es tu vida, \n
+dentro otros con… vida<bov>y es la única, \n
+otros con… vida única<bov>y se acabará pronto. \n
+con… vida única pronto<bov>¡Vamos! \n
+vida única pronto ¡Vamos<bov>La rebeldía puede surgir con educación. \n
+única pronto ¡Vamos educación<bov>La justicia de los débiles puede hacerse fuerte ahora. \n
+pronto ¡Vamos educación ahora<bov>No quiero, \n
+¡Vamos educación ahora quiero<bov>ni quieres, \n
+educación ahora quiero quieres<bov>que los libros de historia cuenten lo mismo de nuevo. \n
+ahora quiero quieres nuevo<bov>No está vez. \n
+quiero quieres nuevo vez<bov>Ahora \n
+quieres nuevo vez Ahora<bov>estamos nosotros. \n
+nuevo vez Ahora nosotros<bov>Ahora… \n
+vez Ahora nosotros Ahora…<bov>No será fácil, \n
+Ahora nosotros Ahora… fácil<bov>ya te lo dije \n
+nosotros Ahora… fácil dije<bov>y te lo digo de nuevo, \n
+Ahora… fácil dije nuevo<bov>no será fácil pero \n
+fácil dije nuevo pero<bov>hay que hacerlo. \n
+dije nuevo pero hacerlo<bov>Apaga la tele \n
+nuevo pero hacerlo tele<bov>y dime tu opinión sobre lo que está pasando, \n
+pero hacerlo tele pasando<bov>deja de escucharme \n
+hacerlo tele pasando escucharme<bov>y corre a incendiar algún banco, \n
+tele pasando escucharme banco<bov>escupe en la cara del que te miente en la cara, \n
+pasando escucharme banco cara<bov>deja de soportar el tacón afilado que cada vez más se afila. \n
+escucharme banco cara afila<bov>Levanta la cabeza y mira, \n
+banco cara afila mira<bov>mira y observa, \n
+cara afila mira observa<bov>observa y digiere, \n
+afila mira observa digiere<bov>digiere y dirige tus esfuerzos al cambio, \n
+mira observa digiere cambio<bov>que no es malo ni bueno, \n
+observa digiere cambio bueno<bov>es necesario. \n
+digiere cambio bueno necesario<bov>¡Vamos! \n
+cambio bueno necesario ¡Vamos<bov>No dejes de pensar \n
+bueno necesario ¡Vamos pensar<bov>en el papel que te corresponde \n
+necesario ¡Vamos pensar corresponde<bov>en este teatro de simios y marionetas \n
+¡Vamos pensar corresponde marionetas<bov>que nos ha tocado vivir. \n
+pensar corresponde marionetas vivir<bov>No caigas en las redes \n
+corresponde marionetas vivir redes<bov>de las redes sociales, \n
+marionetas vivir redes sociales<bov>comunícate y expande lo bueno, \n
+vivir redes sociales bueno<bov>olfatea lo malo y haz clic en eliminar. \n
+redes sociales bueno eliminar<bov>Curiosea, haz preguntas sin respuesta, \n
+sociales bueno eliminar respuesta<bov>grita cuando estas solo, \n
+bueno eliminar respuesta solo<bov>siente cuando estas acompañado. \n
+eliminar respuesta solo acompañado<bov>Lee, viaja, arrodíllate de forma feroz y espontánea \n
+respuesta solo acompañado espontánea<bov>ante la belleza de las cosas que hay a tu alrededor. \n
+solo acompañado espontánea alrededor<bov>Suspira. \n
+acompañado espontánea alrededor Suspira<bov>Muerde y escupe el veneno. \n
+espontánea alrededor Suspira veneno<bov>Ama y haz el amor. \n
+<bov>MUNDOS NUEVOS \n
+NUEVOS<bov>Estamos buscando la manera de conseguir un nuevo Mundo \n
+NUEVOS Mundo<bov>Mundos nuevos, \n
+NUEVOS Mundo nuevos<bov>Mundos nuevos a donde escapar, \n
+NUEVOS Mundo nuevos escapar<bov>Mundos nuevos porque este se está haciendo viejo, \n
+Mundo nuevos escapar viejo<bov>Mundos nuevos porque la huida hacia adelante parece la unica forma posible de soportar una existencia sin respuestas posibles, \n
+nuevos escapar viejo posibles<bov>Mundos nuevos construidos por nosotros para asi poder tener las respuestas que los mundos viejos construidos por otros no tienen, \n
+escapar viejo posibles tienen<bov>Mundos nuevos, \n
+viejo posibles tienen nuevos<bov>Mundos nuevos queriendo ser futuro, cuando solo podran ser presente, \n
+posibles tienen nuevos presente<bov>Mundos nuevos volviendose viejos en el momento justo de ser creados, \n
+tienen nuevos presente creados<bov>Mundo nuevos que no podrán ser nuevos sin un lenguaje nuevo, \n
+nuevos presente creados nuevo<bov>Mundos nuevos construidos con materiales viejos, habitados por gente vieja, \n
+presente creados nuevo vieja<bov>Mundos nuevos naciendo sin querer haber nacido, sin querer ser mundos ni ser nuevos, \n
+creados nuevo vieja nuevos<bov>Mundos nuevos, \n
+nuevo vieja nuevos nuevos<bov>Mundos nuevos cuando el que nosotros creemos viejo sigue siendo nuevo \n
+vieja nuevos nuevos nuevo<bov>Mundos nuevos que cada vez se volverán viejos más rápido, \n
+nuevos nuevos nuevo rápido<bov>Mundos nuevos que nunca nos darán lo que esperábamos, que no necesitan carne ni huesos, pero si espíritu, \n
+nuevos nuevo rápido espíritu<bov>Mundos nuevos que son organismos vivos y no simples contenedores de organismos vivos, \n
+nuevo rápido espíritu vivos<bov>Mundos nuevos que solo seran nuevos si los llenamos de cosas nuevas y de gente nueva, \n
+rápido espíritu vivos nueva<bov>Mundo nuevos que solo serán nuevos si nos extinguimos antes de crearlos \n<|endoftext|>
+<bov>El río de plomo \n
+plomo<bov>Quiero que. \n
+plomo que<bov>Quiero. \n
+plomo que Quiero<bov>Quiero y amo. \n
+plomo que Quiero amo<bov>Amo y… \n
+que Quiero amo y…<bov>Amo y señor. \n
+Quiero amo y… señor<bov>Amo y esclava. \n
+amo y… señor esclava<bov>Esclavo y ama. \n
+y… señor esclava ama<bov>Ama, escucha, observa, distingue \n
+señor esclava ama distingue<bov>el bien del mal, \n
+esclava ama distingue mal<bov>lo bueno de lo malo, \n
+ama distingue mal malo<bov>lo dulce de lo amargo. \n
+distingue mal malo amargo<bov>Lo que te viste y te desnuda \n
+mal malo amargo desnuda<bov>es tan fuerte que no puedes controlarlo. \n
+malo amargo desnuda controlarlo<bov>Pervierte la realidad y… \n
+amargo desnuda controlarlo y…<bov>Ama, escucha, sueña, \n
+desnuda controlarlo y… sueña<bov>sueña despierto pues \n
+controlarlo y… sueña pues<bov>podrás acordarte de lo que sueñas. \n
+y… sueña pues sueñas<bov>Sueña. \n
+sueña pues sueñas Sueña<bov>Sueña despierto y \n
+pues sueñas Sueña y<bov>cuéntame lo que has soñado. \n
+sueñas Sueña y soñado<bov>Dime lo que pasa con este mundo que no conozco. \n
+Sueña y soñado conozco<bov>No creo que lo cotidiano sea mejor, creo, \n
+y soñado conozco creo<bov>creo y espero que puedas comprender, \n
+soñado conozco creo comprender<bov>que no es igual querer que poder \n
+conozco creo comprender poder<bov>cambiar las cosas. \n
+creo comprender poder cosas<bov>Vacías los bolsillos y \n
+comprender poder cosas y<bov>ya estaban vacíos. \n
+poder cosas y vacíos<bov>Vacíos, mejor, si, mejor. \n
+cosas y vacíos mejor<bov>Ahora, podrás llenarlos. \n
+y vacíos mejor llenarlos<bov>Escribes. \n
+vacíos mejor llenarlos Escribes<bov>Escribes poesía. \n
+mejor llenarlos Escribes poesía<bov>Escribes poesía. \n
+llenarlos Escribes poesía poesía<bov>¿Escribes poesía? \n
+Escribes poesía poesía poesía<bov>Las seis letras peor combinadas de la historia \n
+poesía poesía poesía historia<bov>dieron lugar al aburrimiento. \n
+poesía poesía historia aburrimiento<bov>Pon la mano en el fuego \n
+poesía historia aburrimiento fuego<bov>y dime que no quema. \n
+historia aburrimiento fuego quema<bov>¡Dime que no quema! \n
+aburrimiento fuego quema quema<bov>Rompe el cántaro y báñate en la fuente. \n
+fuego quema quema fuente<bov>Rompe y escucha. \n
+quema quema fuente escucha<bov>Escucha el río y observa el metal liquido. \n
+quema fuente escucha liquido<bov>De plomo derretido eres, \n
+fuente escucha liquido eres<bov>y escupes \n
+escucha liquido eres escupes<bov>a los que no son capaces de creer en lo que viene. \n
+liquido eres escupes viene<bov>Escupes \n
+eres escupes viene Escupes<bov>a los que no pueden comprender \n
+escupes viene Escupes comprender<bov>que lo real es más. \n
+viene Escupes comprender más<bov>Más. \n
+Escupes comprender más Más<bov>Más. \n
+comprender más Más Más<bov>¡Más! \n
+más Más Más ¡Más<bov>Escucha, las cosas son más. \n
+Más Más ¡Más más<bov>Escucha, a la cruz le sobra \n
+Más ¡Más más sobra<bov>lo que tu guardaste. \n
+¡Más más sobra guardaste<bov>Escucha, levántate. \n
+más sobra guardaste levántate<bov>¡Levántate, levántate! \n
+sobra guardaste levántate levántate<bov>La palabra cambia. \n
+guardaste levántate levántate cambia<bov>Cambia y se va \n
+levántate levántate cambia va<bov>de visita a otro mundo, \n
+levántate cambia va mundo<bov>para volver. \n
+cambia va mundo volver<bov>Vuelve. \n
+va mundo volver Vuelve<bov>Vuelve y cuéntame lo que has visto. \n
+mundo volver Vuelve visto<bov>Así, \n
+volver Vuelve visto Así<bov>así yo también habré ido. \n
+Vuelve visto Así ido<bov>Y así es como pensaba que iba a pasar, \n
+visto Así ido pasar<bov>y así pasó, \n
+Así ido pasar pasó<bov>y así pasó porque así pensaba que iba a pasar. \n
+ido pasar pasó pasar<bov>Vete. \n
+pasar pasó pasar Vete<bov>¡Vete! \n
+pasó pasar Vete ¡Vete<bov>Grita la palabra que enciende la tormenta. \n
+pasar Vete ¡Vete tormenta<bov>Vete. \n
+Vete ¡Vete tormenta Vete<bov>¡Vete! \n
+¡Vete tormenta Vete ¡Vete<bov>Deja huérfanos a los que siguen intentando destruir los muros. \n
+tormenta Vete ¡Vete muros<bov>Vete. \n
+Vete ¡Vete muros Vete<bov>¡Vete! \n
+¡Vete muros Vete ¡Vete<bov>La vibración delatara la huida \n
+muros Vete ¡Vete huida<bov>del que lleva en sus pies las semillas \n
+Vete ¡Vete huida semillas<bov>del caos y el desorden. \n
+<bov>Yo tampoco \n
+tampoco<bov>Yo tampoco lo entiendoyo tampoco ¿yo tan poco te di o te doy? \n
+tampoco doy<bov>tan pocoyo tampoco lo entiendo y las cosas suceden y suceden y ya han sucedidoy yo tampoco entiendo el porqué de las cosasa pesar de que cuando era pequeño tenia un libro verdey otro blanco que las explicabados libros que explicaban el porqué de las cosas \n
+tampoco doy cosas<bov>pero los perdío alguien encontró mi cuarto desordenado y los tiró a la basurao quizá los regaló a una biblioteca públicay ahora tampoco lo entiendo \n
+tampoco doy cosas entiendo<bov>y ahora tampocotan poco¿tan poco te di o te doy? \n<|endoftext|>
+<bov>Vente vente, me dijeron \n
+dijeron<bov>Y vine \n
+dijeron vine<bov>Estamos aquí \n
+dijeron vine aquí<bov>Nueva York \n
+dijeron vine aquí York<bov>Vente vente \n
+vine aquí York vente<bov>en el bosque de los árboles que crecen en busca del cielo de los despiertos, \n
+aquí York vente despiertos<bov>No se alimentan de la tierra, \n
+York vente despiertos tierra<bov>Beben del metal líquido de Bauman y de las miradas \n
+vente despiertos tierra miradas<bov>robadas en el deshielo de un vagón a medianoche, \n
+despiertos tierra miradas medianoche<bov>Crecen inevitablemente en la espera, \n
+tierra miradas medianoche espera<bov>en la preparación ardua y lenta del momento que, irreversible, \n
+miradas medianoche espera irreversible<bov>se precipita en cascada y sin vestimenta, \n
+medianoche espera irreversible vestimenta<bov>Mientras, \n
+espera irreversible vestimenta Mientras<bov>Soñamos lo que seremos, adivinando \n
+irreversible vestimenta Mientras adivinando<bov>Construimos realidades con \n
+vestimenta Mientras adivinando con<bov>la valentía de quien camina \n
+Mientras adivinando con camina<bov>descalzo sobre el fuego, \n
+adivinando con camina fuego<bov>con un martillo en la huella cincelada \n
+con camina fuego cincelada<bov>el pincel de cera y la pluma de estaño, \n
+camina fuego cincelada estaño<bov>nos deslizamos en esta ciudad que amamos \n
+fuego cincelada estaño amamos<bov>y odiamos, pero que nos alimenta, \n
+cincelada estaño amamos alimenta<bov>Este \n
+estaño amamos alimenta Este<bov>es \n
+amamos alimenta Este es<bov>nuestro Nueva York \n
+alimenta Este es York<bov>Esta \n
+Este es York Esta<bov>es \n
+es York Esta es<bov>nuestra Casa \n
+York Esta es Casa<bov>Esto \n
+Esta es Casa Esto<bov>es \n
+es Casa Esto es<bov>la celebración \n
+Casa Esto es celebración<bov>de que estamos juntos y estamos vivos, \n
+Esto es celebración vivos<bov>de que podemos cambiar el mundo que habitamos \n
+es celebración vivos habitamos<bov>Este edificio es el árbol que crece hacia el cielo de Nueva York \n
+celebración vivos habitamos York<bov>El árbol cuyas raíces se sostienen en la cultura y el lenguaje \n
+vivos habitamos York lenguaje<bov>En apoyarnos y preocuparnos los unos por los otros \n
+habitamos York lenguaje otros<bov>Esta es nuestra historia \n
+York lenguaje otros historia<bov>Honramos a los que estuvieron y levantaron esta casa \n
+lenguaje otros historia casa<bov>que es nuestra casa \n
+otros historia casa casa<bov>La de todos y todas \n
+historia casa casa todas<bov>Y esa es su fuerza \n
+casa casa todas fuerza<bov>Que ahora nos habita \n
+casa todas fuerza habita<bov>Nunca estuvo tan cerca el cielo \n
+todas fuerza habita cielo<bov>Como en esta tarde de julio \n
+fuerza habita cielo julio<bov>Aquí en la 14 \n
+habita cielo julio 14<bov>En este pedazo de calle que es tierra \n
+cielo julio 14 tierra<bov>Sentimos como crecen las raíces \n
+julio 14 tierra raíces<bov>En el recuerdo de quien ya estuvo aquí \n
+14 tierra raíces aquí<bov>Y sabe lo que va a ocurrir \n
+tierra raíces aquí ocurrir<bov>Aquello que esperábamos ha venido a buscarnos y \n
+raíces aquí ocurrir y<bov>Aun estando preparados \n
+aquí ocurrir y preparados<bov>No queremos acompañarle \n
+ocurrir y preparados acompañarle<bov>¿Qué dejamos? \n
+y preparados acompañarle dejamos<bov>¿era este presente el futuro que imaginábamos? \n
+preparados acompañarle dejamos imaginábamos<bov>Tres luces parpadean ante la ausencia de tacto \n
+acompañarle dejamos imaginábamos tacto<bov>La palabra es la mano \n
+dejamos imaginábamos tacto mano<bov>la mano es lo que cambia el mundo \n
+imaginábamos tacto mano mundo<bov>o al menos la realidad que nos han enseñado \n
+tacto mano mundo enseñado<bov>la verja contiene los secretos nunca contados \n
+mano mundo enseñado contados<bov>y dolerá si la tocas a piel llana \n
+mundo enseñado contados llana<bov>dijeron basta pero no le dijeron bien alto \n
+enseñado contados llana alto<bov>dijeron para pero nadie escucho \n
+contados llana alto escucho<bov>dijeron lucha pero no sabían contra qué se luchaba \n
+llana alto escucho luchaba<bov>La repentina consciencia de nuestra común vulnerabilidad \n
+alto escucho luchaba vulnerabilidad<bov>El final de algo y el principio de algo \n
+escucho luchaba vulnerabilidad algo<bov>Seremos río si no sabemos ser mar, \n
+luchaba vulnerabilidad algo mar<bov>Seremos tierra húmeda si no sabemos ser río, \n
+vulnerabilidad algo mar río<bov>Seremos roca si no dejamos que crezca en la tierra \n
+algo mar río tierra<bov>la semilla que plantaron nuestros abuelos, \n
+mar río tierra abuelos<bov>Ahora la poesía está en la calle \n
+río tierra abuelos calle<bov>Ahora más que nunca necesitan a los poetas en las calles \n
+tierra abuelos calle calles<bov>Ahora \n
+abuelos calle calles Ahora<bov>Es ahora cuando los poetas deben levantar la voz y la palabra \n
+calle calles Ahora palabra<bov>Es ahora \n
+calles Ahora palabra ahora<bov>Cuando deben marchar al frente o cuidando la retaguardia con sus versos y sus arengas \n
+Ahora palabra ahora arengas<bov>Con sus diatribas que repetidas mil veces en las gargantas de los que marchan se convertirán en el discurso del cambio \n
+palabra ahora arengas cambio<bov>Ahora más que nunca necesitan a los poetas en las calles \n
+ahora arengas cambio calles<bov>en las redes \n
+arengas cambio calles redes<bov>en los libros que vienen \n
+cambio calles redes vienen<bov>en el poema-manifiesto que despertara la conciencia de quien lo lea \n
+calles redes vienen lea<bov>Es ahora \n
+redes vienen lea ahora<bov>porque ahora la poesía está en la calle \n
+vienen lea ahora calle<bov>Un bello latido \n
+lea ahora calle latido<bov>A beautiful heartbeat \n
+ahora calle latido heartbeat<bov>Es todo lo que pido \n
+calle latido heartbeat pido<bov>León \n
+latido heartbeat pido León<bov>Hijo de Pantera \n
+heartbeat pido León Pantera<bov>Seke Banza – tú, espíritu único \n
+pido León Pantera único<bov>Aslan en la frontera de Europa \n
+León Pantera único Europa<bov>Narasinja \n
+Pantera único Europa Narasinja<bov>También profeta \n
+único Europa Narasinja profeta<bov>Sinhala – gente con sangre de león \n
+Europa Narasinja profeta león<bov>Que acude a la llamada \n
+Narasinja profeta león llamada<bov>Viento del norte \n
+profeta león llamada norte<bov>Danzas bajo la luna \n
+león llamada norte luna<bov>Con la piel salada por el mar \n
+llamada norte luna mar<bov>Trasantlantico en el \n
+norte luna mar el<bov>Noel en el espejo \n
+luna mar el espejo<bov>Mágico gallego \n
+mar el espejo gallego<bov>Que cruzaste el océano para nacer \n
+el espejo gallego nacer<bov>Nuevayorquino en la luz \n
+espejo gallego nacer luz<bov>Brooklyniano por derecho \n
+gallego nacer luz derecho<bov>Príncipe de Williamsburg \n
+nacer luz derecho Williamsburg<bov>Cuando ya nadie creía en principes \n
+luz derecho Williamsburg principes<bov>Beñesmer que llega desde el infinito \n
+derecho Williamsburg principes infinito<bov>Con una simple melodia \n
+Williamsburg principes infinito melodia<bov>La de la vida vivida como un poema \n
+principes infinito melodia poema<bov>Como un poeta \n
+infinito melodia poema poeta<bov>O como una poesía \n
+melodia poema poeta poesía<bov>Como en casi todo lo que pasa por encima de nosotros, hay un plan \n
+poema poeta poesía plan<bov>No soy de teorías de la conspiración pero, hay un plan \n
+poeta poesía plan plan<bov>Un policía mata a una persona de raza negra mientras lo graban con un teléfono móvil, hay un plan \n
+poesía plan plan plan<bov>Vándalos incendian y saquean las tiendas en la noche, hay un plan \n
+plan plan plan plan<bov>Un presidente dice que bebamos lejía y otro acaba con el pulmón del planeta, hay un plan \n
+plan plan plan plan<bov>Las desigualdades aumentan y los ricos ganan más dinero que nunca, hay un plan \n
+plan plan plan plan<bov>Pero es un plan basado en el odio y la tiranía \n
+plan plan plan tiranía<bov>En la pereza de nuestra conciencia, a menudo mal enseñada y perezosa \n
+plan plan tiranía perezosa<bov>Es un plan que nos aleja de nuestra humanidad y nuestros sueños \n
+plan tiranía perezosa sueños<bov>Es un plan que requiere que seas cómplice con tu silencio y tu inacción \n
+tiranía perezosa sueños inacción<bov>Es un plan que nos obliga a todos a formarnos una opinión \n
+perezosa sueños inacción opinión<bov>Es un plan aterrador frente al que debemos levantar la voz \n
+sueños inacción opinión voz<bov>Es un plan en el que ganan los malos, \n
+inacción opinión voz malos<bov>y los malos -como dicen los pequeños Greta y Leo \n
+opinión voz malos Leo<bov>Sendra- no pueden ganar \n
+voz malos Leo ganar<bov>El cielo de Nueva York se llena de helicópteros que zumban en las tardes tensas de una primavera post pandemica \n
+malos Leo ganar pandemica<bov>el virus es el odio y el miedo que sale de nuestras fosas como un mal sueño \n
+Leo ganar pandemica sueño<bov>el racismo enquistado en la historia que solo curará si aceptamos y comprendemos \n
+ganar pandemica sueño comprendemos<bov>una herida que no se cierra y que sangra cuando callamos, bajamos la cabeza y miramos al suelo \n
+pandemica sueño comprendemos suelo<bov>Queremos paz, igualdad y justicia \n
+sueño comprendemos suelo justicia<bov>Para poder construir con ellas \n
+comprendemos suelo justicia ellas<bov>Un futuro mejor que un pasado que nos envenena \n
+suelo justicia ellas envenena<bov>Un mañana que recuerde para aprender en esta memoria que quema \n
+justicia ellas envenena quema<bov>No dejemos que unos pocos arruinen lo que tantos hemos construido \n
+ellas envenena quema construido<bov>No escupamos la rabia antes de saber hacía donde sopla el viento \n
+envenena quema construido viento<bov>No caigamos en el desánimo ni dejemos de ver todo lo bueno \n
+quema construido viento bueno<bov>Mi arma es la palabra y lucho con ella \n
+construido viento bueno ella<bov>Mi escudo es mi curiosidad y mi empatía \n
+viento bueno ella empatía<bov>Mi esperanza es la diversidad, la tolerancia, el respeto y la cooperación \n
+bueno ella empatía cooperación<bov>De verdad pienso que un mundo mejor es posible \n
+ella empatía cooperación posible<bov>Este es nuestro Nueva York \n
+empatía cooperación posible York<bov>Esta es nuestra Casa \n
+cooperación posible York Casa<bov>Esto es la celebración de que estamos juntos y estamos vivos, \n
+posible York Casa vivos<bov>de que podemos cambiar el mundo que habitamos \n
+York Casa vivos habitamos<bov>el Nueva York de las leyendas se prepara de nuevo para levantarse \n
+Casa vivos habitamos levantarse<bov>sin gente en su interior, los rascacielos oscilan inertes en el silencio, \n
+vivos habitamos levantarse silencio<bov>la ciudad entera se estremece \n
+habitamos levantarse silencio estremece<bov>como un ente vivo que se agita incierto y vulnerable, \n
+levantarse silencio estremece vulnerable<bov>hambriento de vida \n
+silencio estremece vulnerable vida<bov>Y ahora \n
+estremece vulnerable vida ahora<bov>Después de esto \n
+vulnerable vida ahora esto<bov>Caminemos \n
+vida ahora esto Caminemos<bov>Por los suelos y por los techos \n
+ahora esto Caminemos techos<bov>Por las ancianas cornisas abalaustradas \n
+esto Caminemos techos abalaustradas<bov>Por las aceras que han sentido los millones de pisadas de las vidas de quienes las construyeron \n
+Caminemos techos abalaustradas construyeron<bov>Por la forma incendiaria de la vela que preside nuestro mundo \n
+techos abalaustradas construyeron mundo<bov>Y esa magia \n
+abalaustradas construyeron mundo magia<bov>Ese improbable suceso \n
+construyeron mundo magia suceso<bov>Ese universo extraño que nadie entiende y que todos damos por hecho \n
+mundo magia suceso hecho<bov>Ese estarse quieto frente al estallido y la caléndula \n
+magia suceso hecho caléndula<bov>Ese hacer el bien \n
+suceso hecho caléndula bien<bov>Esa respuesta que no conocemos \n
+hecho caléndula bien conocemos<bov>Esa mirada oculta que nos devolverá al lugar a donde pertenecemos \n
+caléndula bien conocemos pertenecemos<bov>Y que llega cuando menos te lo esperas \n
+bien conocemos pertenecemos esperas<bov>Será POESIA \n
+conocemos pertenecemos esperas POESIA<bov>Solo eso, \n
+pertenecemos esperas POESIA eso<bov>y cultivar el futuro como redundancia en la que nadie había \n
+esperas POESIA eso había<bov>pensado, \n
+POESIA eso había pensado<bov>lo oculto, lo enterrado que sin duda crecerá si lo cuidamos, \n
+eso había pensado cuidamos<bov>si le damos lo mejor de nosotros, \n
+había pensado cuidamos nosotros<bov>eso que nos guardamos para cuándo y para quien, \n
+pensado cuidamos nosotros quien<bov>y es ahora, \n
+cuidamos nosotros quien ahora<bov>es ahora, \n
+nosotros quien ahora ahora<bov>siempre lo fue \n
+<bov>La alegria de estar juntos \n
+juntos<bov>El alma que hierve \n
+juntos hierve<bov>Encerrada \n
+juntos hierve Encerrada<bov>Sin su cabeza de dragones hambrienta \n
+juntos hierve Encerrada hambrienta<bov>Erratica \n
+hierve Encerrada hambrienta Erratica<bov>El aliento escondido \n
+Encerrada hambrienta Erratica escondido<bov>La dama \n
+hambrienta Erratica escondido dama<bov>El rey que quiere seguir gobernando \n
+Erratica escondido dama gobernando<bov>El juego \n
+escondido dama gobernando juego<bov>Los limites y hasta ahí tranquilo \n
+dama gobernando juego tranquilo<bov>La lengua \n
+gobernando juego tranquilo lengua<bov>Como distancia para medir la ceguera \n
+juego tranquilo lengua ceguera<bov>Prohibido \n
+tranquilo lengua ceguera Prohibido<bov>Nadie está a salvo \n
+lengua ceguera Prohibido salvo<bov>Una venda \n
+ceguera Prohibido salvo venda<bov>Una herida \n
+Prohibido salvo venda herida<bov>Una ventana abierta \n
+salvo venda herida abierta<bov>Un volcan y lo oculto que quema \n
+venda herida abierta quema<bov>Que lava \n
+herida abierta quema lava<bov>Que transporta el alma herida en la reyerta \n
+abierta quema lava reyerta<bov>Sin hilos \n
+quema lava reyerta hilos<bov>Los acusadores se despeñan en sus espejos abalaustrados \n
+lava reyerta hilos abalaustrados<bov>Inevitables y absurdos \n
+reyerta hilos abalaustrados absurdos<bov>Los dolientes culpables de si mismos \n
+hilos abalaustrados absurdos mismos<bov>Ante su audiencia \n
+abalaustrados absurdos mismos audiencia<bov>La carencia de empatia \n
+absurdos mismos audiencia empatia<bov>La desidia convertida en sueño \n
+mismos audiencia empatia sueño<bov>La raza mal entendida \n
+audiencia empatia sueño entendida<bov>Equivocada en su enseñanza \n
+empatia sueño entendida enseñanza<bov>En su absurdo dilema \n
+sueño entendida enseñanza dilema<bov>En la infancia perdida o mal acostumbrada \n
+entendida enseñanza dilema acostumbrada<bov>En la diversidad de los hechos \n
+enseñanza dilema acostumbrada hechos<bov>Los caminos confluyen y ahí nos encontramos \n
+dilema acostumbrada hechos encontramos<bov>Una mano abierta que se levanta \n
+acostumbrada hechos encontramos levanta<bov>Se alza en vela se cierra en puño \n
+hechos encontramos levanta puño<bov>Un mastil sin bandera \n
+encontramos levanta puño bandera<bov>Una voz se escucha y ahí nace el poema \n
+levanta puño bandera poema<bov>Todo empieza con un ritmo \n
+puño bandera poema ritmo<bov>Una cadencia \n
+bandera poema ritmo cadencia<bov>Una melodia que alguien susurra \n
+poema ritmo cadencia susurra<bov>Ligera \n
+ritmo cadencia susurra Ligera<bov>Y la firme convicción \n
+cadencia susurra Ligera convicción<bov>De una canción \n
+susurra Ligera convicción canción<bov>Que dure la vida entera \n
+Ligera convicción canción entera<bov>Que dure \n
+convicción canción entera dure<bov>Que se repita y crezca dentro \n
+canción entera dure dentro<bov>Que envenene de lo bueno \n
+entera dure dentro bueno<bov>De lo magico \n
+dure dentro bueno magico<bov>De lo que un dia recordaremos \n
+dentro bueno magico recordaremos<bov>Esto que vivimos ahora \n
+bueno magico recordaremos ahora<bov>Esto que \n
+magico recordaremos ahora que<bov>Ahora \n
+recordaremos ahora que Ahora<bov>La alegría de estar juntos \n
+ahora que Ahora juntos<bov>El alma que hierve \n
+que Ahora juntos hierve<bov>El juego \n
+Ahora juntos hierve juego<bov>Los limites y hasta ahí tranquilo \n
+juntos hierve juego tranquilo<bov>La lengua \n
+hierve juego tranquilo lengua<bov>Como distancia para medir la ceguera \n
+juego tranquilo lengua ceguera<bov>Los ojos que abrazan \n
+tranquilo lengua ceguera abrazan<bov>Las manos \n
+lengua ceguera abrazan manos<bov>Como palabras que sacuden la inteligencia \n
+ceguera abrazan manos inteligencia<bov>Seguras de si mismas \n
+abrazan manos inteligencia mismas<bov>Aplomadas en lo humano \n
+manos inteligencia mismas humano<bov>Adaptación y cambio \n
+inteligencia mismas humano cambio<bov>Se consume lo que arde \n
+mismas humano cambio arde<bov>Se queda lo mismo que nos llevamos \n
+humano cambio arde llevamos<bov>El campesino que nunca leyó a Eric Frohm \n
+cambio arde llevamos Frohm<bov>Pero sabía que el yugo se lleva en la sangre \n
+arde llevamos Frohm sangre<bov>Nadie destruyó las carreteras de la estirpe y del pie pisando \n
+llevamos Frohm sangre pisando<bov>Nadie echo abajo los templos para construir cuevas \n
+Frohm sangre pisando cuevas<bov>Nadie fue capaz de aceptar la culpa \n
+sangre pisando cuevas culpa<bov>ESCONDIDO \n
+pisando cuevas culpa ESCONDIDO<bov>Mar, pureza \n
+cuevas culpa ESCONDIDO pureza<bov>Naturaleza \n
+culpa ESCONDIDO pureza Naturaleza<bov>Salvaje y raices \n
+ESCONDIDO pureza Naturaleza raices<bov>Creciendo virgenes, \n
+pureza Naturaleza raices virgenes<bov>Un triangulo invertido \n
+Naturaleza raices virgenes invertido<bov>Que reordena la materia \n
+raices virgenes invertido materia<bov>Quitando \n
+virgenes invertido materia Quitando<bov>La venda del dolor \n
+invertido materia Quitando dolor<bov>Sanando \n
+materia Quitando dolor Sanando<bov>La herida \n
+Quitando dolor Sanando herida<bov>Llorando o riendo \n
+dolor Sanando herida riendo<bov>Pacifico, Pacífico \n
+Sanando herida riendo Pacífico<bov>Despidiendo al sol \n
+herida riendo Pacífico sol<bov>Magia y palabras \n
+riendo Pacífico sol palabras<bov>El lenguaje como unidad para construir realidades \n
 <bov>La Mancha y sus mujeres... Argamasilla, Infantes \n
 Infantes<bov>Esquivias, Valdepeñas, La novia de Cervantes, \n
 Infantes Cervantes<bov>y del manchego heroico, el ama y la sobrina \n
